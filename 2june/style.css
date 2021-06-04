@@ -1,0 +1,37 @@
+h1{
+    color: grey;
+    background-color: hotpink;
+}
+h2{
+    color: hotpink;
+    background-color: grey;
+}
+h4{
+    background-color: indianred;
+}
+h3{
+    background-color: khaki;
+}
+ul{
+    background-color: lightgreen;
+}
+img{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border: red 5px;
+    border-radius: 50%;
+  
+}
+p:hover{
+    background-color: lightsalmon;
+
+}
+b:hover{
+    background-color: mediumpurple;
+}
+button:active{
+ 
+    background-color: red;
+    
+}
